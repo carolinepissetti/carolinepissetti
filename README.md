@@ -1,8 +1,8 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  <img alt="Brazil" src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="30px"> <img  alt="Netherlands" src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/nl.svg" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  <img alt="Brazil" src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="30px">
 
 ```html
 About me:
-- I’m a veterinarian 🐷 🐔 microbiologist 👩‍🔬 🦠 🧫 🔬 🧬 :microscope: :microbe: :pill: :dna:
+- I’m a veterinarian 🐷 🐔 microbiologist 👩‍🔬 🦠 🧫 🔬 🧬
 - 🔭 I’m currently working at CEDISA
 - 🌱 I’m currently learning microbiology (always)
 - 📫 How to reach me: carolpissetti@gmail.com
